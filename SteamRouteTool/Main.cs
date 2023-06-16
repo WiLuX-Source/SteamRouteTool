@@ -1,4 +1,4 @@
-﻿using NetFwTypeLib;
+using NetFwTypeLib;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -20,7 +20,7 @@ namespace SteamRouteTool
         int rowCount = 0;
         bool columnChecked = false;
         bool firstLoad = true;
-        string networkconfigURL = @"https://steamcdn-a.akamaihd.net/apps/sdr/network_config.json";
+        string networkconfigURL = @"https://gist.githubusercontent.com/WiLuX-Source/2b0cc2119320c65414f657c53851369a/raw/network_config.json";
 
         public Main()
         {
