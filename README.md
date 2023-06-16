@@ -9,6 +9,11 @@ A tool for blocking routes in Steam games that use network_config.json
 ![Main](https://i.imgur.com/WQD294M.png)
 
 </div>
+<div align="center">
+ 
+[![Total downloads](https://img.shields.io/github/downloads/WiLuX-Source/SteamRouteTool/total.svg?style=for-the-badge&label=Downloads&logo=github&cacheSeconds=600)](https://github.com/WiLuX-Source/SteamRouteTool/releases)
+ 
+</div>
 
 ## Important Note
 If one of the servers gets broken again just open an issue. The current method needs updating manually gets servers from a github gist.
